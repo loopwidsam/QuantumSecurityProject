@@ -1,0 +1,85 @@
+2025-12-22 01:27:54,266 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-12-22 01:27:54,267 - INFO - [33mPress CTRL+C to quit[0m
+2025-12-22 01:27:54,270 - INFO -  * Restarting with stat
+2025-12-22 01:27:54,678 - WARNING -  * Debugger is active!
+2025-12-22 01:27:54,686 - INFO -  * Debugger PIN: 339-306-125
+2025-12-22 01:28:17,273 - INFO - 127.0.0.1 - - [22/Dec/2025 01:28:17] "[33mGET /getPublicKey HTTP/1.1[0m" 404 -
+2025-12-22 01:31:23,289 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-12-22 01:31:23,292 - INFO - [33mPress CTRL+C to quit[0m
+2025-12-22 01:31:23,301 - INFO -  * Restarting with stat
+2025-12-22 01:31:23,868 - WARNING -  * Debugger is active!
+2025-12-22 01:31:23,882 - INFO -  * Debugger PIN: 339-306-125
+2025-12-22 01:31:53,793 - INFO - [PUBKEY SENT] Client=127.0.0.1 | ServerPublicKey=10f7db385f4d34a350c7d4a8b63b371323fbdc16d67c310545ac24b0c2200877
+2025-12-22 01:31:53,794 - INFO - 127.0.0.1 - - [22/Dec/2025 01:31:53] "GET /getServerPublicKey HTTP/1.1" 200 -
+2025-12-22 01:31:54,033 - INFO - 127.0.0.1 - - [22/Dec/2025 01:31:54] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-12-22 01:34:36,516 - INFO -  * Detected change in 'C:\\Users\\bhave\\backend\\test_client.py', reloading
+2025-12-22 01:34:36,602 - INFO -  * Restarting with stat
+2025-12-22 01:34:36,795 - INFO -  * Detected change in 'C:\\Users\\bhave\\backend\\test_client.py', reloading
+2025-12-22 01:34:36,858 - INFO -  * Restarting with stat
+2025-12-22 01:34:37,315 - WARNING -  * Debugger is active!
+2025-12-22 01:34:37,323 - INFO -  * Debugger PIN: 339-306-125
+2025-12-22 01:34:37,494 - WARNING -  * Debugger is active!
+2025-12-22 01:34:37,508 - INFO -  * Debugger PIN: 339-306-125
+2025-12-22 01:36:19,439 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-12-22 01:36:19,440 - INFO - [33mPress CTRL+C to quit[0m
+2025-12-22 01:36:19,448 - INFO -  * Restarting with stat
+2025-12-22 01:36:19,965 - WARNING -  * Debugger is active!
+2025-12-22 01:36:19,973 - INFO -  * Debugger PIN: 339-306-125
+2025-12-22 01:42:54,050 - INFO - 127.0.0.1 - - [22/Dec/2025 01:42:54] "[33mGET /getPublicKey HTTP/1.1[0m" 404 -
+2025-12-22 01:48:25,598 - INFO -  * Detected change in 'C:\\Users\\bhave\\backend\\app.py', reloading
+2025-12-22 01:48:25,669 - INFO -  * Restarting with stat
+2025-12-22 01:48:26,402 - WARNING -  * Debugger is active!
+2025-12-22 01:48:26,419 - INFO -  * Debugger PIN: 339-306-125
+2025-12-22 01:48:28,546 - INFO -  * Detected change in 'C:\\Users\\bhave\\backend\\app.py', reloading
+2025-12-22 01:48:28,639 - INFO -  * Restarting with stat
+2025-12-22 01:48:29,413 - WARNING -  * Debugger is active!
+2025-12-22 01:48:29,428 - INFO -  * Debugger PIN: 339-306-125
+2025-12-22 01:48:49,273 - INFO -  * Detected change in 'C:\\Users\\bhave\\backend\\test_client.py', reloading
+2025-12-22 01:48:49,332 - INFO -  * Restarting with stat
+2025-12-22 01:48:49,880 - WARNING -  * Debugger is active!
+2025-12-22 01:48:49,888 - INFO -  * Debugger PIN: 339-306-125
+2025-12-22 01:48:50,944 - INFO -  * Detected change in 'C:\\Users\\bhave\\backend\\test_client.py', reloading
+2025-12-22 01:48:51,010 - INFO -  * Restarting with stat
+2025-12-22 01:48:51,604 - WARNING -  * Debugger is active!
+2025-12-22 01:48:51,610 - INFO -  * Debugger PIN: 339-306-125
+2025-12-22 01:50:31,236 - INFO -  * Detected change in 'C:\\Users\\bhave\\backend\\hybrid_kem.py', reloading
+2025-12-22 01:50:31,291 - INFO -  * Restarting with stat
+2025-12-22 01:51:43,451 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-12-22 01:51:43,451 - INFO - [33mPress CTRL+C to quit[0m
+2025-12-22 01:51:43,460 - INFO -  * Restarting with stat
+2025-12-22 01:51:43,932 - WARNING -  * Debugger is active!
+2025-12-22 01:51:43,939 - INFO -  * Debugger PIN: 339-306-125
+2025-12-22 01:52:14,549 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-12-22 01:52:14,549 - INFO - [33mPress CTRL+C to quit[0m
+2025-12-22 01:52:14,558 - INFO -  * Restarting with stat
+2025-12-22 01:52:15,064 - WARNING -  * Debugger is active!
+2025-12-22 01:52:15,072 - INFO -  * Debugger PIN: 339-306-125
+2025-12-22 01:52:33,057 - INFO - [PUBKEY SENT] Client=127.0.0.1 | ServerPublicKey=RKAmJxTNcplFgCrMtK2p9bFvYXQP9k/ij79Md9MhTCs=
+2025-12-22 01:52:33,059 - INFO - 127.0.0.1 - - [22/Dec/2025 01:52:33] "GET /getPublicKey HTTP/1.1" 200 -
+2025-12-22 01:54:46,077 - INFO -  * Detected change in 'C:\\Users\\bhave\\backend\\hybrid_kem.py', reloading
+2025-12-22 01:54:46,160 - INFO -  * Restarting with stat
+2025-12-22 01:54:46,555 - WARNING -  * Debugger is active!
+2025-12-22 01:54:46,562 - INFO -  * Debugger PIN: 339-306-125
+2025-12-22 01:55:14,011 - INFO - [PUBKEY SENT] Client=127.0.0.1 | ServerPublicKey=StlhPAaYuKyMiVQLgq1w4gVoOdCcn81p1s8EYNN510g=
+2025-12-22 01:55:14,011 - INFO - 127.0.0.1 - - [22/Dec/2025 01:55:14] "GET /getPublicKey HTTP/1.1" 200 -
+2025-12-22 01:57:47,191 - INFO -  * Detected change in 'C:\\Users\\bhave\\backend\\hybrid_kem.py', reloading
+2025-12-22 01:57:47,249 - INFO -  * Restarting with stat
+2025-12-22 01:57:47,630 - WARNING -  * Debugger is active!
+2025-12-22 01:57:47,635 - INFO -  * Debugger PIN: 339-306-125
+2025-12-22 01:57:49,697 - INFO -  * Detected change in 'C:\\Users\\bhave\\backend\\hybrid_kem.py', reloading
+2025-12-22 01:57:49,759 - INFO -  * Restarting with stat
+2025-12-22 01:58:18,934 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-12-22 01:58:18,934 - INFO - [33mPress CTRL+C to quit[0m
+2025-12-22 01:58:18,940 - INFO -  * Restarting with stat
+2025-12-22 01:58:19,215 - WARNING -  * Debugger is active!
+2025-12-22 01:58:19,219 - INFO -  * Debugger PIN: 339-306-125
+2025-12-22 01:58:34,175 - INFO - [PUBKEY SENT] Client=127.0.0.1 | ServerPublicKey=Bwo4DTe+oJLmd8KEk/qH7Fbn/4yQnyCOuqrDIsEpJmg=
+2025-12-22 01:58:34,175 - INFO - 127.0.0.1 - - [22/Dec/2025 01:58:34] "GET /getPublicKey HTTP/1.1" 200 -
+2025-12-22 01:58:34,220 - ERROR - [DECRYPTION FAILED] Client=127.0.0.1 | Error=An X25519 public key is 32 bytes long
+2025-12-22 01:58:34,220 - INFO - 127.0.0.1 - - [22/Dec/2025 01:58:34] "[35m[1mPOST /sendEncryptedKey HTTP/1.1[0m" 500 -

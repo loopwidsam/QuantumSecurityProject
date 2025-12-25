@@ -1,0 +1,177 @@
+2025-12-22 02:02:50,434 | INFO | \U0001f680 Server boot initiated
+2025-12-22 02:02:50,495 | INFO | \U0001f511 Server key pair generated
+2025-12-22 02:02:50,497 | INFO | \U0001f680 Flask server started
+2025-12-22 02:02:50,510 | INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-12-22 02:02:50,510 | INFO | [33mPress CTRL+C to quit[0m
+2025-12-22 02:02:50,515 | INFO |  * Restarting with stat
+2025-12-22 02:02:50,798 | INFO | \U0001f680 Server boot initiated
+2025-12-22 02:02:50,823 | INFO | \U0001f511 Server key pair generated
+2025-12-22 02:02:50,824 | INFO | \U0001f680 Flask server started
+2025-12-22 02:02:50,836 | WARNING |  * Debugger is active!
+2025-12-22 02:02:50,851 | INFO |  * Debugger PIN: 339-306-125
+2025-12-22 02:03:00,205 | INFO | [PUBKEY REQUEST] ClientIP=127.0.0.1
+2025-12-22 02:03:00,205 | INFO | 127.0.0.1 - - [22/Dec/2025 02:03:00] "GET /getPublicKey HTTP/1.1" 200 -
+2025-12-22 02:03:00,235 | ERROR | [DECRYPTION FAILED] ClientIP=127.0.0.1 | Error=An X25519 public key is 32 bytes long
+2025-12-22 02:03:00,235 | INFO | 127.0.0.1 - - [22/Dec/2025 02:03:00] "[35m[1mPOST /sendEncryptedKey HTTP/1.1[0m" 500 -
+2025-12-22 02:03:49,880 | INFO | \U0001f680 Server boot initiated
+2025-12-22 02:03:49,907 | INFO | \U0001f511 Server key pair generated
+2025-12-22 02:03:49,908 | INFO | \U0001f680 Flask server started
+2025-12-22 02:03:49,922 | INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-12-22 02:03:49,922 | INFO | [33mPress CTRL+C to quit[0m
+2025-12-22 02:03:49,925 | INFO |  * Restarting with stat
+2025-12-22 02:03:50,123 | INFO | \U0001f680 Server boot initiated
+2025-12-22 02:03:50,146 | INFO | \U0001f511 Server key pair generated
+2025-12-22 02:03:50,147 | INFO | \U0001f680 Flask server started
+2025-12-22 02:03:50,151 | WARNING |  * Debugger is active!
+2025-12-22 02:03:50,155 | INFO |  * Debugger PIN: 339-306-125
+2025-12-22 02:04:01,294 | INFO | [PUBKEY REQUEST] ClientIP=127.0.0.1
+2025-12-22 02:04:01,294 | INFO | 127.0.0.1 - - [22/Dec/2025 02:04:01] "GET /getPublicKey HTTP/1.1" 200 -
+2025-12-22 02:04:01,325 | ERROR | [DECRYPTION FAILED] ClientIP=127.0.0.1 | Error=An X25519 public key is 32 bytes long
+2025-12-22 02:04:01,326 | INFO | 127.0.0.1 - - [22/Dec/2025 02:04:01] "[35m[1mPOST /sendEncryptedKey HTTP/1.1[0m" 500 -
+2025-12-22 02:05:42,685 | INFO |  * Detected change in 'C:\\Users\\bhave\\backend\\app.py', reloading
+2025-12-22 02:05:42,766 | INFO |  * Restarting with stat
+2025-12-22 02:10:58,824 | INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-12-22 02:10:58,824 | INFO | [33mPress CTRL+C to quit[0m
+2025-12-22 02:10:58,826 | INFO |  * Restarting with stat
+2025-12-22 02:10:59,067 | WARNING |  * Debugger is active!
+2025-12-22 02:10:59,071 | INFO |  * Debugger PIN: 339-306-125
+2025-12-22 02:12:53,507 | INFO |  * Detected change in 'C:\\Users\\bhave\\backend\\app.py', reloading
+2025-12-22 02:12:53,573 | INFO |  * Restarting with stat
+2025-12-22 02:14:20,085 | INFO | Server key pair generated
+2025-12-22 02:14:20,087 | INFO | Flask server started
+2025-12-22 02:14:20,100 | INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-12-22 02:14:20,100 | INFO | [33mPress CTRL+C to quit[0m
+2025-12-22 02:14:20,103 | INFO |  * Restarting with stat
+2025-12-22 02:14:20,321 | INFO | Server key pair generated
+2025-12-22 02:14:20,322 | INFO | Flask server started
+2025-12-22 02:14:20,326 | WARNING |  * Debugger is active!
+2025-12-22 02:14:20,331 | INFO |  * Debugger PIN: 339-306-125
+2025-12-22 02:14:42,917 | INFO | [PUBKEY REQUEST] ClientIP=127.0.0.1
+2025-12-22 02:14:42,917 | INFO | 127.0.0.1 - - [22/Dec/2025 02:14:42] "GET /getPublicKey HTTP/1.1" 200 -
+2025-12-22 02:14:42,948 | ERROR | [DECRYPTION FAILED] ClientIP=127.0.0.1 | Error=An X25519 public key is 32 bytes long
+2025-12-22 02:14:42,948 | INFO | 127.0.0.1 - - [22/Dec/2025 02:14:42] "[35m[1mPOST /sendEncryptedKey HTTP/1.1[0m" 500 -
+2025-12-22 02:32:16,150 | INFO | Server key pair generated
+2025-12-22 02:32:16,152 | INFO | Flask server started
+2025-12-22 02:32:16,166 | INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-12-22 02:32:16,166 | INFO | [33mPress CTRL+C to quit[0m
+2025-12-22 02:32:16,169 | INFO |  * Restarting with stat
+2025-12-22 02:32:16,393 | INFO | Server key pair generated
+2025-12-22 02:32:16,394 | INFO | Flask server started
+2025-12-22 02:32:16,398 | WARNING |  * Debugger is active!
+2025-12-22 02:32:16,403 | INFO |  * Debugger PIN: 339-306-125
+2025-12-22 02:33:31,602 | INFO | [PUBKEY REQUEST] ClientIP=127.0.0.1
+2025-12-22 02:33:31,603 | INFO | 127.0.0.1 - - [22/Dec/2025 02:33:31] "GET /getPublicKey HTTP/1.1" 200 -
+2025-12-22 02:33:31,641 | ERROR | [DECRYPTION FAILED] ClientIP=127.0.0.1 | Error=An X25519 public key is 32 bytes long
+2025-12-22 02:33:31,642 | INFO | 127.0.0.1 - - [22/Dec/2025 02:33:31] "[35m[1mPOST /sendEncryptedKey HTTP/1.1[0m" 500 -
+2025-12-22 07:59:10,878 | INFO | Server key pair generated
+2025-12-22 07:59:10,881 | INFO | Flask server started
+2025-12-22 07:59:10,922 | INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-12-22 07:59:10,922 | INFO | [33mPress CTRL+C to quit[0m
+2025-12-22 07:59:10,927 | INFO |  * Restarting with stat
+2025-12-22 07:59:11,446 | INFO | Server key pair generated
+2025-12-22 07:59:11,449 | INFO | Flask server started
+2025-12-22 07:59:11,466 | WARNING |  * Debugger is active!
+2025-12-22 07:59:11,476 | INFO |  * Debugger PIN: 113-114-692
+2025-12-22 07:59:47,398 | INFO | Server key pair generated
+2025-12-22 07:59:47,400 | INFO | Flask server started
+2025-12-22 07:59:47,427 | INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-12-22 07:59:47,428 | INFO | [33mPress CTRL+C to quit[0m
+2025-12-22 07:59:47,437 | INFO |  * Restarting with stat
+2025-12-22 07:59:48,077 | INFO | Server key pair generated
+2025-12-22 07:59:48,080 | INFO | Flask server started
+2025-12-22 07:59:48,097 | WARNING |  * Debugger is active!
+2025-12-22 07:59:48,114 | INFO |  * Debugger PIN: 113-114-692
+2025-12-22 08:00:30,887 | INFO | [PUBKEY REQUEST] ClientIP=127.0.0.1
+2025-12-22 08:00:30,888 | INFO | 127.0.0.1 - - [22/Dec/2025 08:00:30] "GET /getPublicKey HTTP/1.1" 200 -
+2025-12-22 08:00:30,998 | ERROR | [DECRYPTION FAILED] ClientIP=127.0.0.1 | Error=An X25519 public key is 32 bytes long
+2025-12-22 08:00:30,999 | INFO | 127.0.0.1 - - [22/Dec/2025 08:00:30] "[35m[1mPOST /sendEncryptedKey HTTP/1.1[0m" 500 -
+2025-12-22 08:05:48,842 | INFO | Server key pair generated
+2025-12-22 08:05:48,843 | INFO | Flask server started
+2025-12-22 08:05:48,865 | INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-12-22 08:05:48,865 | INFO | [33mPress CTRL+C to quit[0m
+2025-12-22 08:05:48,871 | INFO |  * Restarting with stat
+2025-12-22 08:05:49,372 | INFO | Server key pair generated
+2025-12-22 08:05:49,374 | INFO | Flask server started
+2025-12-22 08:05:49,388 | WARNING |  * Debugger is active!
+2025-12-22 08:05:49,403 | INFO |  * Debugger PIN: 113-114-692
+2025-12-22 08:06:13,877 | INFO | [PUBKEY REQUEST] ClientIP=127.0.0.1
+2025-12-22 08:06:13,878 | INFO | 127.0.0.1 - - [22/Dec/2025 08:06:13] "GET /getPublicKey HTTP/1.1" 200 -
+2025-12-22 08:06:13,924 | ERROR | [DECRYPTION FAILED] ClientIP=127.0.0.1 | Error=An X25519 public key is 32 bytes long
+2025-12-22 08:06:13,925 | INFO | 127.0.0.1 - - [22/Dec/2025 08:06:13] "[35m[1mPOST /sendEncryptedKey HTTP/1.1[0m" 500 -
+2025-12-25 15:42:43,925 | INFO | Server key pair generated
+2025-12-25 15:42:43,927 | INFO | Flask server started
+2025-12-25 15:42:43,957 | INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-12-25 15:42:43,958 | INFO | [33mPress CTRL+C to quit[0m
+2025-12-25 15:42:43,965 | INFO |  * Restarting with stat
+2025-12-25 15:42:44,559 | INFO | Server key pair generated
+2025-12-25 15:42:44,561 | INFO | Flask server started
+2025-12-25 15:42:44,569 | WARNING |  * Debugger is active!
+2025-12-25 15:42:44,580 | INFO |  * Debugger PIN: 870-730-164
+2025-12-25 15:44:07,270 | INFO | [PUBKEY REQUEST] ClientIP=127.0.0.1
+2025-12-25 15:44:07,271 | INFO | 127.0.0.1 - - [25/Dec/2025 15:44:07] "GET /getPublicKey HTTP/1.1" 200 -
+2025-12-25 15:44:07,342 | ERROR | [DECRYPTION FAILED] ClientIP=127.0.0.1 | Error=An X25519 public key is 32 bytes long
+2025-12-25 15:44:07,344 | INFO | 127.0.0.1 - - [25/Dec/2025 15:44:07] "[35m[1mPOST /sendEncryptedKey HTTP/1.1[0m" 500 -
+2025-12-25 16:25:24,906 | INFO |  * Detected change in 'C:\\Users\\bhave\\backend\\hybrid_kem.py', reloading
+2025-12-25 16:25:24,952 | INFO |  * Restarting with stat
+2025-12-25 16:25:25,225 | INFO | Server key pair generated
+2025-12-25 16:25:25,225 | INFO | Flask server started
+2025-12-25 16:25:25,233 | WARNING |  * Debugger is active!
+2025-12-25 16:25:25,246 | INFO |  * Debugger PIN: 870-730-164
+2025-12-25 16:25:44,961 | INFO |  * Detected change in 'C:\\Users\\bhave\\backend\\app.py', reloading
+2025-12-25 16:25:45,007 | INFO |  * Restarting with stat
+2025-12-25 16:25:45,300 | INFO | Server key pair generated
+2025-12-25 16:25:45,305 | WARNING |  * Debugger is active!
+2025-12-25 16:25:45,309 | INFO |  * Debugger PIN: 870-730-164
+2025-12-25 16:26:05,037 | INFO |  * Detected change in 'C:\\Users\\bhave\\backend\\test_client.py', reloading
+2025-12-25 16:26:05,089 | INFO |  * Restarting with stat
+2025-12-25 16:26:05,371 | INFO | Server key pair generated
+2025-12-25 16:26:05,377 | WARNING |  * Debugger is active!
+2025-12-25 16:26:05,381 | INFO |  * Debugger PIN: 870-730-164
+2025-12-25 16:26:56,169 | INFO |  * Detected change in 'C:\\Users\\bhave\\backend\\app.py', reloading
+2025-12-25 16:26:56,244 | INFO |  * Restarting with stat
+2025-12-25 16:26:56,659 | INFO | Server key pair generated
+2025-12-25 16:26:56,664 | WARNING |  * Debugger is active!
+2025-12-25 16:26:56,670 | INFO |  * Debugger PIN: 870-730-164
+2025-12-25 16:27:00,854 | INFO |  * Detected change in 'C:\\Users\\bhave\\backend\\hybrid_kem.py', reloading
+2025-12-25 16:27:00,901 | INFO |  * Restarting with stat
+2025-12-25 16:27:01,179 | INFO | Server key pair generated
+2025-12-25 16:27:01,192 | WARNING |  * Debugger is active!
+2025-12-25 16:27:01,210 | INFO |  * Debugger PIN: 870-730-164
+2025-12-25 16:27:09,459 | INFO |  * Detected change in 'C:\\Users\\bhave\\backend\\test_client.py', reloading
+2025-12-25 16:27:09,535 | INFO |  * Restarting with stat
+2025-12-25 16:27:09,833 | INFO | Server key pair generated
+2025-12-25 16:27:09,853 | WARNING |  * Debugger is active!
+2025-12-25 16:27:09,869 | INFO |  * Debugger PIN: 870-730-164
+2025-12-25 16:27:28,417 | INFO | Server key pair generated
+2025-12-25 16:27:28,430 | INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-12-25 16:27:28,431 | INFO | [33mPress CTRL+C to quit[0m
+2025-12-25 16:27:28,435 | INFO |  * Restarting with stat
+2025-12-25 16:27:28,667 | INFO | Server key pair generated
+2025-12-25 16:27:28,671 | WARNING |  * Debugger is active!
+2025-12-25 16:27:28,676 | INFO |  * Debugger PIN: 870-730-164
+2025-12-25 16:27:52,183 | INFO | Public key requested
+2025-12-25 16:27:52,183 | INFO | 127.0.0.1 - - [25/Dec/2025 16:27:52] "GET /getPublicKey HTTP/1.1" 200 -
+2025-12-25 16:27:52,221 | INFO | Decryption successful | KeyHash=1918e11c6f307bd1527d11d458aab61e96972550c968a161cf7c6a172ea759c5
+2025-12-25 16:27:52,222 | INFO | 127.0.0.1 - - [25/Dec/2025 16:27:52] "POST /sendEncryptedKey HTTP/1.1" 200 -
+2025-12-25 16:53:45,957 | INFO | Server key pair generated
+2025-12-25 16:53:46,011 | INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-12-25 16:53:46,012 | INFO | [33mPress CTRL+C to quit[0m
+2025-12-25 16:53:46,020 | INFO |  * Restarting with stat
+2025-12-25 16:53:46,334 | INFO | Server key pair generated
+2025-12-25 16:53:46,339 | WARNING |  * Debugger is active!
+2025-12-25 16:53:46,344 | INFO |  * Debugger PIN: 870-730-164
+2025-12-25 16:54:30,152 | INFO | Public key requested
+2025-12-25 16:54:30,153 | INFO | 127.0.0.1 - - [25/Dec/2025 16:54:30] "GET /getPublicKey HTTP/1.1" 200 -
+2025-12-25 16:54:30,183 | INFO | Decryption successful | KeyHash=1918e11c6f307bd1527d11d458aab61e96972550c968a161cf7c6a172ea759c5
+2025-12-25 16:54:30,183 | INFO | 127.0.0.1 - - [25/Dec/2025 16:54:30] "POST /sendEncryptedKey HTTP/1.1" 200 -
